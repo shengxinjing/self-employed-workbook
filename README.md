@@ -39,7 +39,7 @@
   * <img style="width:300px;" src="README.assets/image-20211020173045170.png">
 * 10.23 参加早早聊Vue专场 
 	* <img style="width:800px;" src="README.assets/image-20211021205612077.png">
-
+* 11月前端学习路线图
 ## 日常思考
 
 #### 程序员不上班怎么搞到钱
